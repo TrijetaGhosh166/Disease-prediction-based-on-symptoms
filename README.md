@@ -11,3 +11,4 @@ main.py
 app.py
 
 diseasenote.py
+https://drive.google.com/drive/folders/1VsOhQjoieaGlJGI95dd1-WyIbyxmeb-T?usp=sharing
